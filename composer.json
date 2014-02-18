@@ -1,5 +1,5 @@
 {
-    "name": "etsy/phpunit-extensions",
+    "name": "basekit/phpunit-extensions",
     "description": "Etsy PHPUnit Extensions",
     "type": "library",
     "keywords": [
